@@ -17,7 +17,7 @@
   </div>
 
 
-      <div class="well clean" id="project-description">
+<div class="well clean" id="project-description">
   <p><img src="https://i.redd.it/y9y25tefi5401.png" alt="" style="" /></p>
 
 <h2>Resources</h2>
